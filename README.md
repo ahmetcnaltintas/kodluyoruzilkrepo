@@ -26,5 +26,5 @@ Pull requestler kabul edilir.Büyük değişiklikler için, lütfen önce neyi d
 
 # Usage
 
-[MIT]()
+[MIT](https://choosealicense.com/licenses/mit/)
 
